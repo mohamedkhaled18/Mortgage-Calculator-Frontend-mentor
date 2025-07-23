@@ -24,7 +24,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
-[image](./public/design/desktop-design-empty.jpg)
+![image](./public/design/desktop-design-empty.jpg)
 
 ### Links
 - Solution URL - [Solution URL](https://github.com/mohamedkhaled18/Mortgage-Calculator-Frontend-mentor.git)
